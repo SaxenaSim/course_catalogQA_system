@@ -1,0 +1,4 @@
+chromadb==0.4.24
+langchain==0.1.16
+openai==1.23.6
+pypdf==4.2.0
